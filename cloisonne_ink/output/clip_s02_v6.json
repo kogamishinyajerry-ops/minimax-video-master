@@ -1,0 +1,11 @@
+{
+ "image_list": [
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_11.png"}
+ ],
+ "prompt_list": [
+ "Cloisonne vessel slowly rotates, golden wires shimmer"
+ ],
+ "reference_type_list": ["first_frame"],
+ "duration_list": [8],
+ "resolution_list": ["768P"]
+}

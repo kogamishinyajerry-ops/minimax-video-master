@@ -1,0 +1,9 @@
+{"requests":[
+ {
+ "prompt": "Traditional Chinese ink wash documentary background music. Soft guzheng, pipa, and bamboo flute. Slow, contemplative, elegant. Suitable for narration about traditional Chinese craftsmanship. No vocals, instrumental only.",
+ "lyrics": "[Instrumental]",
+ "sample_rate":32000,
+ "bitrate":128000,
+ "format": "mp3"
+ }
+]}

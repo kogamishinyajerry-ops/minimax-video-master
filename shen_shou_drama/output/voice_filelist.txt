@@ -1,0 +1,8 @@
+file 'audio/padded_voice_01.mp3'
+file 'audio/padded_voice_02.mp3'
+file 'audio/padded_voice_03.mp3'
+file 'audio/padded_voice_04.mp3'
+file 'audio/padded_voice_05.mp3'
+file 'audio/padded_voice_06.mp3'
+file 'audio/padded_voice_07.mp3'
+file 'audio/padded_voice_08.mp3'

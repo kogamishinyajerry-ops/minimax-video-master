@@ -1,0 +1,15 @@
+{
+  "project": "cloisonne_drama",
+  "total_clips": 8,
+  "clips": [
+    {"id": "Scene_01", "name": "出镜开场", "clip_file": "cloisonne_drama/clips/clip_01.mp4", "duration": 8, "narration": "他，便是这门古老技艺的传承人，数十年如一日，守护着掐丝珐琅的火与色。"},
+    {"id": "Scene_02", "name": "设计画稿", "clip_file": "cloisonne_drama/clips/clip_02.mp4", "duration": 6, "narration": "一张宣纸，几笔墨痕，是作品的灵魂起点。"},
+    {"id": "Scene_03", "name": "制胎", "clip_file": "cloisonne_drama/clips/clip_03.mp4", "duration": 6, "narration": "匠人将紫铜片锤打成器形，作品的骨架便由此铸就。"},
+    {"id": "Scene_04", "name": "掐丝", "clip_file": "cloisonne_drama/clips/clip_04.mp4", "duration": 6, "narration": "细如发丝的扁铜丝，在指尖弯折成画的经脉。"},
+    {"id": "Scene_05", "name": "点蓝", "clip_file": "cloisonne_drama/clips/clip_05.mp4", "duration": 6, "narration": "矿物釉料被一一填入丝间，恰如点染丹青。"},
+    {"id": "Scene_06", "name": "烧制", "clip_file": "cloisonne_drama/clips/clip_06.mp4", "duration": 6, "narration": "入窑七百度的锤炼，釉与丝相融相生。"},
+    {"id": "Scene_07", "name": "磨光", "clip_file": "cloisonne_drama/clips/clip_07.mp4", "duration": 6, "narration": "砂石一遍遍地打磨，器面方能光可鉴人。"},
+    {"id": "Scene_08", "name": "成品展示", "clip_file": "cloisonne_drama/clips/clip_08.mp4", "duration": 6, "narration": "镀金之后，丝如金线，釉如宝石。掐丝珐琅，至此方成大器。"}
+  ],
+  "total_duration": 50
+}

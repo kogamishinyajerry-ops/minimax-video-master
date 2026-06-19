@@ -1,0 +1,8 @@
+file 'clips/clip_01_ink_opening.mp4'
+file 'clips/clip_02_qinglong.mp4'
+file 'clips/clip_03_baihu.mp4'
+file 'clips/clip_04_zhuque.mp4'
+file 'clips/clip_05_xuanwu.mp4'
+file 'clips/clip_06_qilin.mp4'
+file 'clips/clip_07_wuxing.mp4'
+file 'clips/clip_08_seal.mp4'

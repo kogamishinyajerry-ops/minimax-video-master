@@ -1,0 +1,10 @@
+{
+ "video_info": [
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/clips/temp_a.mp4", "prompt": "Describe the video content in one short sentence, focus on what the camera shows and the action. Reply in English."},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/clips/temp_b.mp4", "prompt": "Describe the video content in one short sentence, focus on what the camera shows and the action. Reply in English."},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/clips/temp_c.mp4", "prompt": "Describe the video content in one short sentence, focus on what the camera shows and the action. Reply in English."},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/clips/temp_d.mp4", "prompt": "Describe the video content in one short sentence, focus on what the camera shows and the action. Reply in English."},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/clips/temp_e.mp4", "prompt": "Describe the video content in one short sentence, focus on what the camera shows and the action. Reply in English."},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/clips/temp_f.mp4", "prompt": "Describe the video content in one short sentence, focus on what the camera shows and the action. Reply in English."}
+ ]
+}

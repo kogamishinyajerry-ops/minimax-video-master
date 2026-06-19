@@ -1,0 +1,11 @@
+{
+ "image_list": [
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_04.png"}
+ ],
+ "prompt_list": [
+ "Hand raises hammer and strikes copper"
+ ],
+ "reference_type_list": ["first_frame"],
+ "duration_list": [6],
+ "resolution_list": ["768P"]
+}

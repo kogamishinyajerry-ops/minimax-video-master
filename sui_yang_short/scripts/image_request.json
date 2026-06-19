@@ -1,0 +1,34 @@
+{
+  "requests": [
+    {
+      "prompt": "Epic Chinese emperor Sui Yang portrait, half-body, dark red and black imperial dragon robe, intense eyes looking at camera, dim candlelight, dark moody atmosphere, high contrast cinematic lighting, ink wash style with red accents, vertical 9:16 composition, dramatic shallow depth of field, film grain, 4K cinematic",
+      "aspect_ratio": "9:16",
+      "resolution": "1K"
+    },
+    {
+      "prompt": "Ancient Chinese Grand Canal construction scene, 600 AD Sui Dynasty, thousands of laborers digging canal under scorching sun, Luoyang in background, dust clouds, cranes and wooden scaffolding, epic scale, wide angle cinematic, intense sunlight, 9:16 vertical composition, oil painting style with vivid details",
+      "aspect_ratio": "9:16",
+      "resolution": "1K"
+    },
+    {
+      "prompt": "Ancient Chinese imperial examination Keju scene, Sui Tang Dynasty palace hall, scholars in white robes writing at long desks, dramatic top-down spotlight, ink brushes and bamboo slips, solemn atmosphere, vertical 9:16 composition, cinematic lighting, hyper-detailed realistic style",
+      "aspect_ratio": "9:16",
+      "resolution": "1K"
+    },
+    {
+      "prompt": "Sui Dynasty battlefield uprising chaos, peasant rebels with torches and weapons attacking a burning palace, night scene, red fire and dark smoke, dynamic action, intense dramatic lighting, vertical 9:16 composition, epic cinematic scale, oil painting style with vivid details",
+      "aspect_ratio": "9:16",
+      "resolution": "1K"
+    },
+    {
+      "prompt": "Tang Dynasty imperial historian writing official history book at candlelit desk, ancient Chinese scrolls and bamboo slips, dim warm candlelight, focused scholar with brush, dark scholarly study room, vertical 9:16 composition, cinematic moody lighting, hyper-detailed",
+      "aspect_ratio": "9:16",
+      "resolution": "1K"
+    },
+    {
+      "prompt": "Emperor Yang of Sui Yang Guang standing on imperial dragon throne, full body shot, golden imperial crown, dark red dragon robe with golden embroidery, palace throne room with red pillars, dramatic low angle heroic pose, intense imperial aura, vertical 9:16 composition, cinematic epic lighting, oil painting style",
+      "aspect_ratio": "9:16",
+      "resolution": "1K"
+    }
+  ]
+}

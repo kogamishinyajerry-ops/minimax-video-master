@@ -1,0 +1,186 @@
+{
+  "total_scenes": 12,
+  "total_duration": 72,
+  "scenes": [
+    {
+      "id": "Scene_01",
+      "title": "开篇点题",
+      "scene_name": "开篇墨场",
+      "scene_image": "output/scenes/scene_06_opening_ink.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 6,
+      "first_frame_prompt": "A blank rice paper with a dark ink drop at center, the ink just starting to bleed outward, vast white space around, pure shuimo minimal composition, cinematic",
+      "motion_prompt": "A single drop of ink falls and blooms into spreading concentric rings on rice paper",
+      "subtitles": [
+        {"text": "中华神兽", "main": true},
+        {"text": "千古之韵", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_02",
+      "title": "青龙腾云",
+      "scene_name": "东方云海",
+      "scene_image": "output/scenes/scene_01_east_sea.png",
+      "characters": ["青龙"],
+      "character_images": ["output/characters/character_01_qinglong.png"],
+      "duration": 6,
+      "first_frame_prompt": "A majestic Chinese Azure Dragon coiling through rolling eastern clouds at dawn, ink wash painting style, vast sea of clouds, golden sun rays from horizon, 16:9 wide shot",
+      "motion_prompt": "The Azure Dragon flies forward through rolling clouds, its long body coiling and tail sweeping",
+      "subtitles": [
+        {"text": "青龙", "main": true},
+        {"text": "东方 · 主木 · 司春", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_03",
+      "title": "龙首特写",
+      "scene_name": "延续",
+      "scene_image": null,
+      "characters": ["青龙"],
+      "character_images": ["output/characters/character_01_qinglong.png"],
+      "duration": 6,
+      "first_frame_prompt": "Close-up of a Chinese Azure Dragon head, deer antlers, flowing whiskers, sharp eyes, detailed scales, ink wash painting style, dramatic side lighting, 16:9",
+      "motion_prompt": "The dragon head rises slowly, whiskers and mane flowing in the wind",
+      "subtitles": [
+        {"text": "龙吟九霄", "main": true},
+        {"text": "兴云致雨 · 泽被苍生", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_04",
+      "title": "白虎踞山",
+      "scene_name": "西方山岭",
+      "scene_image": "output/scenes/scene_02_west_mountain.png",
+      "characters": ["白虎"],
+      "character_images": ["output/characters/character_02_baihu.png"],
+      "duration": 6,
+      "first_frame_prompt": "A mighty Chinese White Tiger crouching on a western mountain peak, ink wash painting style, swirling mist around, jagged peaks behind, 16:9 wide shot",
+      "motion_prompt": "The White Tiger lifts its head and roars, body tensing, tail sweeping",
+      "subtitles": [
+        {"text": "白虎", "main": true},
+        {"text": "西方 · 主金 · 司秋", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_05",
+      "title": "虎目特写",
+      "scene_name": "延续",
+      "scene_image": null,
+      "characters": ["白虎"],
+      "character_images": ["output/characters/character_02_baihu.png"],
+      "duration": 6,
+      "first_frame_prompt": "Extreme close-up of a Chinese White Tiger face, 王 character on forehead, fierce round eyes, sharp fangs, ink wash painting style, high contrast, 16:9",
+      "motion_prompt": "The tiger head turns slightly, eyes blazing, mouth opening to show fangs",
+      "subtitles": [
+        {"text": "虎啸山林", "main": true},
+        {"text": "百兽震惶 · 威震八方", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_06",
+      "title": "朱雀翔火",
+      "scene_name": "南方火海",
+      "scene_image": "output/scenes/scene_03_south_fire.png",
+      "characters": ["朱雀"],
+      "character_images": ["output/characters/character_03_zhuque.png"],
+      "duration": 6,
+      "first_frame_prompt": "A glorious Chinese Vermilion Bird with wings spread wide, flying through flame-like vermilion clouds in the southern sky, ink wash with crimson tints, 16:9 wide shot",
+      "motion_prompt": "The Vermilion Bird spreads its wings and soars upward through flame-like clouds, long tail feathers trailing",
+      "subtitles": [
+        {"text": "朱雀", "main": true},
+        {"text": "南方 · 主火 · 司夏", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_07",
+      "title": "凤羽特写",
+      "scene_name": "延续",
+      "scene_image": null,
+      "characters": ["朱雀"],
+      "character_images": ["output/characters/character_03_zhuque.png"],
+      "duration": 6,
+      "first_frame_prompt": "Close-up of a Chinese Vermilion Bird head with phoenix crown and neck feathers, crimson red ink bleeding into black, ink wash painting style, 16:9",
+      "motion_prompt": "The bird head turns slightly, crown feathers swaying, neck feathers rippling",
+      "subtitles": [
+        {"text": "凤鸣高冈", "main": true},
+        {"text": "天下太平 · 光明永照", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_08",
+      "title": "玄武盘海",
+      "scene_name": "北方玄海",
+      "scene_image": "output/scenes/scene_04_north_sea.png",
+      "characters": ["玄武"],
+      "character_images": ["output/characters/character_04_xuanwu.png"],
+      "duration": 6,
+      "first_frame_prompt": "A solemn Chinese Black Tortoise with serpent coiled around, resting on dark northern ocean with ice slabs, ink wash painting style, low angle, 16:9 wide shot",
+      "motion_prompt": "The serpent head on the tortoise shell rises and flicks its forked tongue, waves churning below",
+      "subtitles": [
+        {"text": "玄武", "main": true},
+        {"text": "北方 · 主水 · 司冬", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_09",
+      "title": "龟蛇交缠",
+      "scene_name": "延续",
+      "scene_image": null,
+      "characters": ["玄武"],
+      "character_images": ["output/characters/character_04_xuanwu.png"],
+      "duration": 6,
+      "first_frame_prompt": "Close-up of Chinese Black Tortoise shell with deep burnt-ink crackled texture, a black serpent coiled around the shell, traditional shuimo heavy ink, 16:9",
+      "motion_prompt": "The serpent body slowly tightens its coil around the tortoise shell, subtle movement",
+      "subtitles": [
+        {"text": "龟蛇相守", "main": true},
+        {"text": "水德悠长 · 永镇北冥", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_10",
+      "title": "麒麟献瑞",
+      "scene_name": "中央祥云",
+      "scene_image": "output/scenes/scene_05_central_sky.png",
+      "characters": ["麒麟"],
+      "character_images": ["output/characters/character_05_qilin.png"],
+      "duration": 6,
+      "first_frame_prompt": "A celestial Chinese Qilin walking gracefully through auspicious rolling clouds in the central sky, warm ink with subtle golden-ochre tints, ink wash painting style, 16:9 wide shot",
+      "motion_prompt": "The Qilin walks forward through auspicious clouds, hooves stepping gently",
+      "subtitles": [
+        {"text": "麒麟", "main": true},
+        {"text": "中央 · 主土 · 祥瑞之征", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_11",
+      "title": "麒麟角特写",
+      "scene_name": "延续",
+      "scene_image": null,
+      "characters": ["麒麟"],
+      "character_images": ["output/characters/character_05_qilin.png"],
+      "duration": 6,
+      "first_frame_prompt": "Close-up of a celestial Chinese Qilin head with curved deer antlers and single forehead horn, gentle wise eyes, warm ink with golden tints, shuimo style, 16:9",
+      "motion_prompt": "The Qilin head raises gently, antlers tilting slightly, eyes looking forward with wisdom",
+      "subtitles": [
+        {"text": "麒麟降世", "main": true},
+        {"text": "万民同庆 · 太平有象", "main": false}
+      ]
+    },
+    {
+      "id": "Scene_12",
+      "title": "五山收韵",
+      "scene_name": "收尾群峰",
+      "scene_image": "output/scenes/scene_07_ending_mountain.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 6,
+      "first_frame_prompt": "A distant panorama of five connected mountain peaks fading into mist, mountains in progressively lighter ink, faint golden light on the highest peak, vast white sky, shuimo atmospheric perspective, 16:9",
+      "motion_prompt": "Mist slowly drifts across the five mountain peaks, golden light on the central peak growing slightly brighter",
+      "subtitles": [
+        {"text": "中华神兽", "main": true},
+        {"text": "永耀古今 · 千秋不息", "main": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+ "image_list": [
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_06.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_07.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_08.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_09.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_10.png"}
+ ],
+ "prompt_list": [
+ "Small spoon drops blue enamel powder into wire compartment",
+ "Embers flicker in kiln mouth, copper blank pushed inside",
+ "Soft mist drifts across copper blanks, kiln glow pulses",
+ "Hand rubs sandstone across cloisonne surface",
+ "Golden liquid flows over copper wires"
+ ],
+ "reference_type_list": ["first_frame","first_frame","first_frame","first_frame","first_frame"],
+ "duration_list": [7,6,6,6,7],
+ "resolution_list": ["768P","768P","768P","768P","768P"]
+}

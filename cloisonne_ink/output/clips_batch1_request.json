@@ -1,0 +1,19 @@
+{
+ "image_list": [
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_01.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_02.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_03.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_04.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_05.png"}
+ ],
+ "prompt_list": [
+ "A cloisonne vessel slowly materializes from ink wash mist, golden wires gradually emerge",
+ "Camera slowly pushes in toward a cloisonne vessel on an imperial desk, soft daylight shifts",
+ "An artisan's hand draws elegant curves on rice paper with a brush",
+ "An artisan's hand raises a hammer and strikes a red copper sheet rhythmically",
+ "An artisan's hand bends a copper wire with tweezers into a curved pattern"
+ ],
+ "reference_type_list": ["first_frame","first_frame","first_frame","first_frame","first_frame"],
+ "duration_list": [7,8,6,6,7],
+ "resolution_list": ["768P","768P","768P","768P","768P"]
+}

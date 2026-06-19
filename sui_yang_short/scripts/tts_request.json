@@ -1,0 +1,40 @@
+{
+  "requests": [
+    {
+      "text": "杨广,被骂了一千四百年的暴君。可今天,我要给他翻案。",
+      "voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "speed": 1.05,
+      "emotion": "neutral"
+    },
+    {
+      "text": "他修了一条运河,北京到杭州,两千多公里,唐宋明清,一千多年,都靠它吃饭。",
+      "voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "speed": 1.05,
+      "emotion": "neutral"
+    },
+    {
+      "text": "他还搞了科举,让平民能靠读书当官。这套制度,用了一千三百年,直到清朝才废。",
+      "voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "speed": 1.05,
+      "emotion": "neutral"
+    },
+    {
+      "text": "可他为什么亡了?一个字,急。修运河、征高句丽、建东都,所有大事十几年里全干完了,民夫死绝。",
+      "voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "speed": 1.05,
+      "emotion": "neutral"
+    },
+    {
+      "text": "他被骂成昏君,有多少是真的?唐朝写的史书,把前朝皇帝,写得越坏越好。",
+      "voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "speed": 1.05,
+      "emotion": "neutral"
+    },
+    {
+      "text": "他不是圣人,也不是昏君,是急功近利的改革家,一个输给了时间的人。评论区,给他打个分。",
+      "voice_id": "Chinese (Mandarin)_Reliable_Executive",
+      "speed": 1.05,
+      "emotion": "neutral"
+    }
+  ]
+}

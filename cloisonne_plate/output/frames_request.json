@@ -1,0 +1,44 @@
+{"requests":[
+ {
+ "prompt": "A traditional Chinese wooden desk corner in cinematic documentary photography style, a blank half-finished rice paper laid on the desk, calligraphy brush resting on a brush holder, ink stone with black ink, soft warm side lighting from the left, shallow depth of field with blurred traditional workshop background, the empty desk is the focal point ready to be filled, atmospheric perspective, cinematic 16:9 composition, 8K detail",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/hand_brush.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Top-down cinematic close-up of a traditional Chinese wooden desk, a hand holding a calligraphy brush drawing intricate entwined lotus patterns (the design for a cloisonne enamel round plate) on rice paper, the drawing is half-finished, soft warm diffused lighting from the left, shallow depth of field, the artisan's weathered hand and the round plate design are the visual anchors, blurred ink stone and brush holder in background, cinematic 16:9 composition, realistic documentary style, 8K detail",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/hand_brush.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/plate_finished.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Side view cinematic close-up of an artisan's hand holding a blacksmith hammer striking a red copper round disc blank on an iron anvil, sparks barely visible, warm workshop lighting from the right casting dramatic shadows, shallow depth of field with blurred workshop background of hanging copper blanks and tools, the round copper disc and hand are the visual anchors, realistic documentary photography, cinematic 16:9 composition, 8K detail",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/hand_hammer.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/plate_finished.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Top-down cinematic close-up of an artisan's weathered hand using a small brass spoon dropping vivid blue enamel powder into a copper wire compartment on a half-finished cloisonne round plate, the round plate occupies 70 percent of frame as the central element, colorful enamel dishes in cinnabar red sapphire blue malachite green visible nearby, warm focused top-side lighting, shallow depth of field, realistic documentary photography, cinematic 16:9 composition, 8K detail",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/hand_spoon.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/plate_finished.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Close-up cinematic shot of a traditional Chinese brick kiln mouth, an artisan's hand is pushing a half-finished cloisonne copper plate (with entwined lotus pattern outlined in copper wire) into the kiln, glowing orange-red embers visible inside, dark workshop surroundings, dramatic chiaroscuro lighting with strong warm orange-red glow on the plate, the plate being inserted is the visual anchor, realistic documentary photography, cinematic 16:9 composition, 8K detail",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/hand_tweezers.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/plate_finished.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Side cinematic close-up of an artisan's hand polishing a finished cloisonne round plate with a sandstone block, the round plate is held at an angle revealing the polished copper surface reflecting warm light, a polishing cloth nearby, warm focused side lighting from the right, shallow depth of field, the round plate is the visual anchor occupying 70 percent of frame, realistic documentary photography, cinematic 16:9 composition, 8K detail",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/hand_tweezers.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/plate_finished.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "A finished cloisonne enamel round plate resting on a clean wooden display stand, golden copper wire lines gleaming with metallic luster, vibrant gemstone-colored enamel turquoise sapphire blue cinnabar red jade green inlaid between wires, museum-quality presentation, warm focused side lighting, shallow depth of field, the round plate is the visual anchor at 60 percent of frame, blurred warm workshop background, realistic documentary photography, cinematic 16:9 composition, 8K detail",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_plate/output/elements/plate_finished.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ }
+]}

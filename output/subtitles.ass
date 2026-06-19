@@ -1,0 +1,52 @@
+[Script Info]
+Title: 中华神兽水墨介绍
+ScriptType: v4.00+
+PlayResX: 1376
+PlayResY: 768
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,STKaiti,72,&H00FFFFFF,&H00FFFFFF,&H00111111,&H88000000,1,0,0,0,100,100,0,0,1,3,4,2,80,80,120,134
+Style: Sub,STKaiti,40,&H00E8E8E8,&H00E8E8E8,&H00111111,&H88000000,0,0,0,0,100,100,0,0,1,2,3,2,80,80,80,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+; --- 1. 开篇 ---
+Dialogue: 0,0:00:01.00,0:00:05.00,Main,,0,0,0,,{\fad(500,500)}中华神兽
+Dialogue: 0,0:00:01.50,0:00:05.00,Sub,,0,0,0,,{\fad(500,500)}千古之韵
+; --- 2. 青龙 ---
+Dialogue: 0,0:00:06.88,0:00:11.20,Main,,0,0,0,,{\fad(400,400)}青龙
+Dialogue: 0,0:00:07.38,0:00:11.20,Sub,,0,0,0,,{\fad(400,400)}东方 · 主木 · 司春
+; --- 3. 龙首 ---
+Dialogue: 0,0:00:12.75,0:00:17.10,Main,,0,0,0,,{\fad(400,400)}龙吟九霄
+Dialogue: 0,0:00:13.25,0:00:17.10,Sub,,0,0,0,,{\fad(400,400)}兴云致雨 · 泽被苍生
+; --- 4. 白虎 ---
+Dialogue: 0,0:00:18.63,0:00:22.95,Main,,0,0,0,,{\fad(400,400)}白虎
+Dialogue: 0,0:00:19.13,0:00:22.95,Sub,,0,0,0,,{\fad(400,400)}西方 · 主金 · 司秋
+; --- 5. 虎目 ---
+Dialogue: 0,0:00:24.50,0:00:28.85,Main,,0,0,0,,{\fad(400,400)}虎啸山林
+Dialogue: 0,0:00:25.00,0:00:28.85,Sub,,0,0,0,,{\fad(400,400)}百兽震惶 · 威震八方
+; --- 6. 朱雀 ---
+Dialogue: 0,0:00:30.38,0:00:34.70,Main,,0,0,0,,{\fad(400,400)}朱雀
+Dialogue: 0,0:00:30.88,0:00:34.70,Sub,,0,0,0,,{\fad(400,400)}南方 · 主火 · 司夏
+; --- 7. 凤羽 ---
+Dialogue: 0,0:00:36.25,0:00:40.55,Main,,0,0,0,,{\fad(400,400)}凤鸣高冈
+Dialogue: 0,0:00:36.75,0:00:40.55,Sub,,0,0,0,,{\fad(400,400)}天下太平 · 光明永照
+; --- 8. 玄武 ---
+Dialogue: 0,0:00:42.13,0:00:46.45,Main,,0,0,0,,{\fad(400,400)}玄武
+Dialogue: 0,0:00:42.63,0:00:46.45,Sub,,0,0,0,,{\fad(400,400)}北方 · 主水 · 司冬
+; --- 9. 龟蛇 ---
+Dialogue: 0,0:00:48.00,0:00:52.30,Main,,0,0,0,,{\fad(400,400)}龟蛇相守
+Dialogue: 0,0:00:48.50,0:00:52.30,Sub,,0,0,0,,{\fad(400,400)}水德悠长 · 永镇北冥
+; --- 10. 麒麟 ---
+Dialogue: 0,0:00:53.88,0:00:58.20,Main,,0,0,0,,{\fad(400,400)}麒麟
+Dialogue: 0,0:00:54.38,0:00:58.20,Sub,,0,0,0,,{\fad(400,400)}中央 · 主土 · 祥瑞之征
+; --- 11. 麒麟角 ---
+Dialogue: 0,0:00:59.75,0:00:64.10,Main,,0,0,0,,{\fad(400,400)}麒麟降世
+Dialogue: 0,00:01:00.25,00:01:04.10,Sub,,0,0,0,,{\fad(400,400)}万民同庆 · 太平有象
+; --- 12. 收尾 ---
+Dialogue: 0,0:01:05.63,0:01:09.85,Main,,0,0,0,,{\fad(400,400)}中华神兽
+Dialogue: 0,0:01:06.13,0:01:09.85,Sub,,0,0,0,,{\fad(400,400)}永耀古今 · 千秋不息

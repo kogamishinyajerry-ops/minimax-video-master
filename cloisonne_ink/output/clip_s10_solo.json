@@ -1,0 +1,11 @@
+{
+ "image_list": [
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_10.png"}
+ ],
+ "prompt_list": [
+ "Golden liquid drips over copper wires on cloisonne piece"
+ ],
+ "reference_type_list": ["first_frame"],
+ "duration_list": [7],
+ "resolution_list": ["768P"]
+}

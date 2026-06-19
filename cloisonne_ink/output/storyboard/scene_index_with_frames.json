@@ -1,0 +1,127 @@
+{
+ "total_scenes":11,
+ "scenes": [
+ {
+ "id": "S01",
+ "title": "开篇·墨晕",
+ "duration":7,
+ "scene_ref": "output/scenes/scene_01_void.png",
+ "element_refs": ["output/elements/vessel_01.png"],
+ "first_frame": "output/frames/frame_01.png",
+ "first_frame_prompt": "A finished cloisonne enamel tripod ding censer (Jingtailan) slowly emerging from soft ink wash gradients in Chinese ink wash animation style...",
+ "motion_prompt": "The cloisonne vessel slowly materializes from ink wash, golden wires and enamel colors gradually emerge from the mist, soft ink ripples continue to spread outward",
+ "narration": "千年的炉火凝于一器，这是掐丝珐琅的故事"
+ },
+ {
+ "id": "S02",
+ "title": "历史穿越",
+ "duration":8,
+ "scene_ref": "output/scenes/scene_02_palace.png",
+ "element_refs": [],
+ "first_frame": "output/frames/frame_02.png",
+ "first_frame_prompt": "Interior corner of a Ming-Qing dynasty imperial palace in Chinese ink wash animation style...",
+ "motion_prompt": "Camera slowly pushes in toward the cloisonne vessel on the imperial desk, the background pillars drift slightly out of focus, soft daylight shifts across the scene",
+ "narration": "元末明初，珐琅工艺自西域传入中原；至景泰年间因御用而盛，得名景泰蓝"
+ },
+ {
+ "id": "S03",
+ "title": "设计画稿",
+ "duration":6,
+ "scene_ref": "output/scenes/scene_03_desk.png",
+ "element_refs": ["output/elements/hand_01.png"],
+ "first_frame": "output/frames/frame_03.png",
+ "first_frame_prompt": "Top-down close-up of an artisan's hand holding a fine brush, drawing cloisonne vessel patterns on rice paper...",
+ "motion_prompt": "The artisan's hand moves the brush across the rice paper, slowly drawing elegant curves and lines that form cloisonne vessel patterns",
+ "narration": "一器之始，是画稿。匠人以墨在宣纸上勾出器形与纹样"
+ },
+ {
+ "id": "S04",
+ "title": "制胎",
+ "duration":6,
+ "scene_ref": "output/scenes/scene_04_anvil.png",
+ "element_refs": ["output/elements/hand_01.png"],
+ "first_frame": "output/frames/frame_04.png",
+ "first_frame_prompt": "Close-up of an artisan's hand holding a blacksmith hammer above a red copper sheet on an iron anvil...",
+ "motion_prompt": "The artisan's hand raises the hammer and strikes the red copper sheet rhythmically, the copper gradually bends under each strike",
+ "narration": "制胎，以锤击紫铜，令其成器之骨"
+ },
+ {
+ "id": "S05",
+ "title": "掐丝",
+ "duration":7,
+ "scene_ref": "output/scenes/scene_05_wires.png",
+ "element_refs": ["output/elements/hand_01.png"],
+ "first_frame": "output/frames/frame_05.png",
+ "first_frame_prompt": "Top-down close-up of an artisan's hand using tweezers to bend a thin copper wire over a half-finished cloisonne copper blank...",
+ "motion_prompt": "The artisan's hand carefully bends the copper wire with tweezers, slowly shaping it into a curved pattern on the cloisonne blank",
+ "narration": "掐丝为最见功力之工序，匠人以镊将细铜丝弯折成山水花鸟"
+ },
+ {
+ "id": "S06",
+ "title": "点蓝",
+ "duration":7,
+ "scene_ref": "output/scenes/scene_05_wires.png",
+ "element_refs": ["output/elements/hand_01.png"],
+ "first_frame": "output/frames/frame_06.png",
+ "first_frame_prompt": "Top-down close-up of an artisan's hand using a small spoon to drop blue enamel powder into a copper wire compartment on a cloisonne piece...",
+ "motion_prompt": "A small spoon carefully drops blue enamel powder into a wire compartment, then moves to the next section, the color fills the gap between copper wires",
+ "narration": "点蓝，将矿物研磨的各色釉料，填入铜丝围成的格中"
+ },
+ {
+ "id": "S07",
+ "title": "烧制",
+ "duration":6,
+ "scene_ref": "output/scenes/scene_06_kiln.png",
+ "element_refs": [],
+ "first_frame": "output/frames/frame_07.png",
+ "first_frame_prompt": "Close-up of a traditional Chinese brick kiln mouth in Chinese ink wash animation style...",
+ "motion_prompt": "Subtle flickering glow from the kiln mouth, embers shift slightly, warm light pulses on nearby copper blanks, a copper blank is pushed into the kiln",
+ "narration": "入窑烧制，高温令釉料熔融，与铜丝紧紧相拥"
+ },
+ {
+ "id": "S08",
+ "title": "反复入窑",
+ "duration":6,
+ "scene_ref": "output/scenes/scene_06_kiln.png",
+ "element_refs": [],
+ "first_frame": "output/frames/frame_08.png",
+ "first_frame_prompt": "Several finished and half-finished copper blanks resting on a wooden shelf near a traditional Chinese brick kiln...",
+ "motion_prompt": "Soft mist drifts across the copper blanks, the kiln's orange glow subtly pulses in the background, the atmosphere shifts gently as if marking the passage of time",
+ "narration": "反复入窑，反复点蓝，一件器物需七十二道工序"
+ },
+ {
+ "id": "S09",
+ "title": "磨光",
+ "duration":6,
+ "scene_ref": "output/scenes/scene_07_polish.png",
+ "element_refs": ["output/elements/hand_01.png"],
+ "first_frame": "output/frames/frame_09.png",
+ "first_frame_prompt": "Close-up of an artisan's hand polishing a cloisonne piece with a sandstone block...",
+ "motion_prompt": "The artisan's hand rubs the sandstone across the cloisonne surface in slow circular motions, reflections shift on the polished copper",
+ "narration": "出窑后以砂石打磨，令表面平如镜"
+ },
+ {
+ "id": "S10",
+ "title": "镀金",
+ "duration":7,
+ "scene_ref": "output/scenes/scene_07_polish.png",
+ "element_refs": [],
+ "first_frame": "output/frames/frame_10.png",
+ "first_frame_prompt": "Close-up of a cloisonne piece being gilded, golden liquid being applied to copper wires...",
+ "motion_prompt": "Golden liquid flows slowly across the copper wires, the gilding gradually transforms the wires into gleaming gold lines, warm light reflects off the golden surface",
+ "narration": "终以镀金，将金液敷于铜丝之上，金线夺目，器物方成"
+ },
+ {
+ "id": "S11",
+ "title": "收束",
+ "duration":8,
+ "scene_ref": "output/scenes/scene_01_void.png",
+ "element_refs": ["output/elements/vessel_01.png"],
+ "first_frame": "output/frames/frame_11.png",
+ "first_frame_prompt": "A finished cloisonne enamel tripod ding censer (Jingtailan) centered in a vast white space...",
+ "motion_prompt": "The cloisonne vessel slowly rotates in the empty space, light glides across the golden wires and enamel surface, soft ink mist drifts around it, the scene gradually fades to white",
+ "narration": "掐丝珐琅，是凝固的火焰，是凝固的时光"
+ }
+ ],
+ "total_duration":75
+}

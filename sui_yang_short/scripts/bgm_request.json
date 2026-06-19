@@ -1,0 +1,10 @@
+{
+  "requests": [
+    {
+      "prompt": "Epic Chinese trap beat BGM for short video, intense guzheng riff, deep 808 bass, hard-hitting drum kicks, cinematic tension build, modern hip hop drums with ancient Chinese instruments, 90 seconds energetic pacing, no vocals, instrumental only",
+      "sample_rate": 44100,
+      "bitrate": 128000,
+      "format": "mp3"
+    }
+  ]
+}

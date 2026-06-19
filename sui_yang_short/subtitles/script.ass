@@ -1,0 +1,37 @@
+[Script Info]
+Title: Sui Yang Emperor Yang Guang - 90s Short (Vertical 9:16)
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STHeiti SC,60,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,220,1
+Style: BigText,STHeiti SC,110,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,3,5,80,80,0,1
+Style: TitleBig,STHeiti SC,130,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:03.00,TitleBig,,0,0,0,,被骂 1400 年\N的暴君 隋炀帝
+Dialogue: 0,0:00:03.00,0:00:05.95,Default,,0,0,0,,杨广,被骂了,一千四百年的暴君。
+Dialogue: 0,0:00:06.00,0:00:08.02,Default,,0,0,0,,可今天,我要给他翻案。
+Dialogue: 0,0:00:12.50,0:00:16.41,Default,,0,0,0,,他修了一条运河,北京到杭州,两千多公里,
+Dialogue: 0,0:00:16.46,0:00:19.59,Default,,0,0,0,,唐宋明清,一千多年,都靠它吃饭。
+Dialogue: 0,0:00:24.00,0:00:27.40,Default,,0,0,0,,他还搞了科举,让平民能靠读书当官。
+Dialogue: 0,0:00:27.45,0:00:31.46,Default,,0,0,0,,这套制度,用了一千三百年,直到清朝才废。
+Dialogue: 0,0:00:36.00,0:00:38.70,Default,,0,0,0,,可他为什么亡了?一个字,急。
+Dialogue: 0,0:00:38.75,0:00:41.26,Default,,0,0,0,,修运河、征高句丽、建东都,
+Dialogue: 0,0:00:41.31,0:00:44.81,Default,,0,0,0,,所有大事十几年里全干完了,民夫死绝。
+Dialogue: 0,0:00:49.00,0:00:53.52,Default,,0,0,0,,他被骂成昏君,有多少是真的?唐朝写的史书,
+Dialogue: 0,0:00:53.57,0:00:56.35,Default,,0,0,0,,把前朝皇帝,写得越坏越好。
+Dialogue: 0,0:01:01.00,0:01:05.07,Default,,0,0,0,,他不是圣人,也不是昏君,是急功近利的改革家,
+Dialogue: 0,0:01:05.12,0:01:06.95,Default,,0,0,0,,一个输给了时间的人。
+Dialogue: 0,0:01:07.00,0:01:08.83,Default,,0,0,0,,评论区,给他打个分。
+Dialogue: 2,0:00:08.07,0:00:12.50,BigText,,0,0,0,,一条运河\N养活中国 1400 年
+Dialogue: 2,0:00:19.64,0:00:24.00,BigText,,0,0,0,,科举\N让平民翻身
+Dialogue: 2,0:00:31.51,0:00:36.00,BigText,,0,0,0,,一个字\N急
+Dialogue: 2,0:00:44.86,0:00:49.00,BigText,,0,0,0,,历史\N由胜利者写
+Dialogue: 2,0:00:56.40,0:01:01.00,BigText,,0,0,0,,急功近利\N的改革家
+Dialogue: 2,0:01:08.88,0:01:15.50,BigText,,0,0,0,,评论\N给他打个分
+Dialogue: 2,0:01:15.50,0:01:23.00,BigText,,0,0,0,,关注\N下期更狠
+Dialogue: 2,0:01:23.00,0:01:30.00,BigText,,0,0,0,,隋炀帝\N翻案系列

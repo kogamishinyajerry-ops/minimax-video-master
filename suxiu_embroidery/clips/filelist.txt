@@ -1,0 +1,8 @@
+file 'clip_01_peony_closeup.mp4'
+file 'clip_02_select_design.mp4'
+file 'clip_03_split_thread.mp4'
+file 'clip_04_hoop.mp4'
+file 'clip_05_tracing.mp4'
+file 'clip_06_stitching.mp4'
+file 'clip_07_exhibition.mp4'
+file 'clip_08_smile.mp4'

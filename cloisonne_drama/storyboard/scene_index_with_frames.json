@@ -1,0 +1,95 @@
+{
+  "project": "cloisonne_drama",
+  "total_scenes": 8,
+  "estimated_total_duration": 50,
+  "scenes": [
+    {
+      "id": "Scene_01",
+      "name": "出镜开场",
+      "first_frame_image": "cloisonne_drama/frames/frame_01.png",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 8,
+      "motion_prompt": "The artisan stands still, slightly turns his head toward the camera, warm light shifts subtly, camera slowly pushes in",
+      "narration": "他，便是这门古老技艺的传承人，数十年如一日，守护着掐丝珐琅的火与色。"
+    },
+    {
+      "id": "Scene_02",
+      "name": "设计画稿",
+      "first_frame_image": "cloisonne_drama/frames/frame_02.png",
+      "scene_image": "cloisonne_drama/scenes/scene_02_desk.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 6,
+      "motion_prompt": "Subtle slow pan across the desk surface, soft light shifts across the rice paper",
+      "narration": "一张宣纸，几笔墨痕，是作品的灵魂起点。"
+    },
+    {
+      "id": "Scene_03",
+      "name": "制胎",
+      "first_frame_image": "cloisonne_drama/frames/frame_03.png",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "motion_prompt": "The artisan raises the hammer and strikes the copper blank, hammer falls, then raises again, repeating rhythmically",
+      "narration": "匠人将紫铜片锤打成器形，作品的骨架便由此铸就。"
+    },
+    {
+      "id": "Scene_04",
+      "name": "掐丝",
+      "first_frame_image": "cloisonne_drama/frames/frame_04.png",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "motion_prompt": "The artisan hand carefully bends the copper wire with tweezers, slowly shaping it into a curved pattern",
+      "narration": "细如发丝的扁铜丝，在指尖弯折成画的经脉。"
+    },
+    {
+      "id": "Scene_05",
+      "name": "点蓝",
+      "first_frame_image": "cloisonne_drama/frames/frame_05.png",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "motion_prompt": "A small spoon carefully drops blue enamel powder into a wire compartment, then moves to the next section",
+      "narration": "矿物釉料被一一填入丝间，恰如点染丹青。"
+    },
+    {
+      "id": "Scene_06",
+      "name": "烧制",
+      "first_frame_image": "cloisonne_drama/frames/frame_06.png",
+      "scene_image": "cloisonne_drama/scenes/scene_03_kiln.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 6,
+      "motion_prompt": "Subtle flickering glow from the kiln mouth, embers shift slightly, warm light pulses on nearby copper blanks",
+      "narration": "入窑七百度的锤炼，釉与丝相融相生。"
+    },
+    {
+      "id": "Scene_07",
+      "name": "磨光",
+      "first_frame_image": "cloisonne_drama/frames/frame_07.png",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "motion_prompt": "The artisan rubs the sandstone across the cloisonne surface in slow circular motions, reflections shift on the polished copper",
+      "narration": "砂石一遍遍地打磨，器面方能光可鉴人。"
+    },
+    {
+      "id": "Scene_08",
+      "name": "成品展示",
+      "first_frame_image": "cloisonne_drama/frames/frame_08.png",
+      "scene_image": "cloisonne_drama/scenes/scene_04_display.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 8,
+      "motion_prompt": "Camera slowly orbits the cloisonne piece, light glides across the golden wires and enamel surface, artisan hands stay still supporting it",
+      "narration": "镀金之后，丝如金线，釉如宝石。掐丝珐琅，至此方成大器。"
+    }
+  ]
+}

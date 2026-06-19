@@ -1,0 +1,90 @@
+{
+  "total_scenes": 12,
+  "total_duration": 72,
+  "scenes": [
+    {
+      "id": "Scene_01",
+      "title": "开篇点题",
+      "first_frame_image": "output/frames/frame_01_opening.png",
+      "duration": 6,
+      "motion_prompt": "A single drop of ink falls and blooms into spreading concentric rings on rice paper"
+    },
+    {
+      "id": "Scene_02",
+      "title": "青龙腾云",
+      "first_frame_image": "output/frames/frame_02_qinglong_flying.png",
+      "duration": 6,
+      "motion_prompt": "The Azure Dragon flies forward through rolling clouds, its long body coiling and tail sweeping"
+    },
+    {
+      "id": "Scene_03",
+      "title": "龙首特写",
+      "first_frame_image": "output/frames/frame_03_qinglong_closeup.png",
+      "duration": 6,
+      "motion_prompt": "The dragon head rises slowly, whiskers and mane flowing in the wind"
+    },
+    {
+      "id": "Scene_04",
+      "title": "白虎踞山",
+      "first_frame_image": "output/frames/frame_04_baihu_mountain.png",
+      "duration": 6,
+      "motion_prompt": "The White Tiger lifts its head and roars, body tensing, tail sweeping"
+    },
+    {
+      "id": "Scene_05",
+      "title": "虎目特写",
+      "first_frame_image": "output/frames/frame_05_baihu_closeup.png",
+      "duration": 6,
+      "motion_prompt": "The tiger head turns slightly, eyes blazing, mouth opening to show fangs"
+    },
+    {
+      "id": "Scene_06",
+      "title": "朱雀翔火",
+      "first_frame_image": "output/frames/frame_06_zhuque_flying.png",
+      "duration": 6,
+      "motion_prompt": "The Vermilion Bird spreads its wings and soars upward through flame-like clouds, long tail feathers trailing"
+    },
+    {
+      "id": "Scene_07",
+      "title": "凤羽特写",
+      "first_frame_image": "output/frames/frame_07_zhuque_closeup.png",
+      "duration": 6,
+      "motion_prompt": "The bird head turns slightly, crown feathers swaying, neck feathers rippling"
+    },
+    {
+      "id": "Scene_08",
+      "title": "玄武盘海",
+      "first_frame_image": "output/frames/frame_08_xuanwu_sea.png",
+      "duration": 6,
+      "motion_prompt": "The serpent head on the tortoise shell rises and flicks its forked tongue, waves churning below"
+    },
+    {
+      "id": "Scene_09",
+      "title": "龟蛇交缠",
+      "first_frame_image": "output/frames/frame_09_xuanwu_closeup.png",
+      "duration": 6,
+      "motion_prompt": "The serpent body slowly tightens its coil around the tortoise shell, subtle movement"
+    },
+    {
+      "id": "Scene_10",
+      "title": "麒麟献瑞",
+      "first_frame_image": "output/frames/frame_10_qilin_walking.png",
+      "duration": 6,
+      "motion_prompt": "The Qilin walks forward through auspicious clouds, hooves stepping gently"
+    },
+    {
+      "id": "Scene_11",
+      "title": "麒麟角特写",
+      "first_frame_image": "output/frames/frame_11_qilin_closeup.png",
+      "duration": 6,
+      "motion_prompt": "The Qilin head raises gently, antlers tilting slightly, eyes looking forward with wisdom"
+    },
+    {
+      "id": "Scene_12",
+      "title": "五山收韵",
+      "first_frame_image": "output/frames/frame_12_ending_mountain.png",
+      "duration": 6,
+      "motion_prompt": "Mist slowly drifts across the five mountain peaks, golden light on the central peak growing slightly brighter"
+    }
+  ]
+}

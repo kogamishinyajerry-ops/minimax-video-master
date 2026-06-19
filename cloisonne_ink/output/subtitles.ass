@@ -1,0 +1,36 @@
+[Script Info]
+Title:掐丝珐琅
+ScriptType: v4.00+
+WrapStyle:0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX:1376
+PlayResY:768
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,42,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,80,80,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue:0,0:00:00.00,0:00:05.50,Default,,0,0,0,,千年的炉火凝于一器
+Dialogue:0,0:00:05.50,0:00:13.50,Default,,0,0,0,,珐琅工艺自西域传入中原
+Dialogue:0,0:00:05.50,0:00:13.50,Default,,0,0,0,,至景泰年间因御用而盛
+Dialogue:0,0:00:13.50,0:00:19.50,Default,,0,0,0,,一器之始是画稿
+Dialogue:0,0:00:13.50,0:00:19.50,Default,,0,0,0,,匠人以墨勾出器形与纹样
+Dialogue:0,0:00:19.50,0:00:25.50,Default,,0,0,0,,制胎 以锤击紫铜
+Dialogue:0,0:00:19.50,0:00:25.50,Default,,0,0,0,,令其成器之骨
+Dialogue:0,0:00:25.50,0:00:31.50,Default,,0,0,0,,掐丝为最见功力之工序
+Dialogue:0,0:00:25.50,0:00:31.50,Default,,0,0,0,,匠人以镊弯折细铜丝
+Dialogue:0,0:00:31.50,0:00:37.00,Default,,0,0,0,,点蓝 将矿物釉料
+Dialogue:0,0:00:31.50,0:00:37.00,Default,,0,0,0,,填入铜丝围成的格中
+Dialogue:0,0:00:37.00,0:00:43.00,Default,,0,0,0,,入窑烧制
+Dialogue:0,0:00:37.00,0:00:37.00,Default,,0,0,0,,高温令釉料与铜丝相拥
+Dialogue:0,0:00:43.00,0:00:49.00,Default,,0,0,0,,反复入窑反复点蓝
+Dialogue:0,0:00:43.00,0:00:49.00,Default,,0,0,0,,七十二道工序
+Dialogue:0,0:00:49.00,0:00:55.00,Default,,0,0,0,,出窑后以砂石打磨
+Dialogue:0,0:00:49.00,0:00:55.00,Default,,0,0,0,,令表面平如镜
+Dialogue:0,0:00:55.00,0:01:03.00,Default,,0,0,0,,终以镀金 金液敷于铜丝
+Dialogue:0,0:00:55.00,0:01:03.00,Default,,0,0,0,,金线夺目器物方成
+Dialogue:0,0:01:03.00,0:01:11.00,Default,,0,0,0,,掐丝珐琅
+Dialogue:0,0:01:03.00,0:01:11.00,Default,,0,0,0,,是凝固的火焰 是凝固的时光

@@ -1,0 +1,8 @@
+{"requests":[
+ {
+ "prompt": "Top-down close-up of an artisan's hand using a small spoon to drop blue enamel powder into a copper wire compartment on a cloisonne piece, in Chinese ink wash animation style, several small enamel dishes in vivid colors (cinnabar red, sapphire blue, malachite green) nearby, muted ink gray background with vivid mineral color accents, hand-painted brushwork, gongbi detail, soft diffused lighting,8K,16:9 cinematic composition",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/elements/hand_01.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/scenes/scene_05_wires.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ }
+]}

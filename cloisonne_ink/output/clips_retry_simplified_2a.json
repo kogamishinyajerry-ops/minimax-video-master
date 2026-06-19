@@ -1,0 +1,13 @@
+{
+ "image_list": [
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_02.png"},
+ {"file": "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/frames/frame_03.png"}
+ ],
+ "prompt_list": [
+ "Camera pushes toward vessel on desk",
+ "Hand draws lines on rice paper"
+ ],
+ "reference_type_list": ["first_frame","first_frame"],
+ "duration_list": [8,6],
+ "resolution_list": ["768P","768P"]
+}

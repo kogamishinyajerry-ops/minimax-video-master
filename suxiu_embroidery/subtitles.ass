@@ -1,0 +1,21 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 768
+PlayResY: 1376
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,34,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,40,40,180,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:00.500,00:00:05.800,Default,,0,0,0,,苏绣传承千年 · 六道古法
+Dialogue: 0,00:00:06.300,00:00:11.500,Default,,0,0,0,,第一步 · 选稿
+Dialogue: 0,00:00:12.300,00:00:17.500,Default,,0,0,0,,第二步 · 配线
+Dialogue: 0,00:00:18.300,00:00:23.500,Default,,0,0,0,,第三步 · 上绷
+Dialogue: 0,00:00:24.300,00:00:29.500,Default,,0,0,0,,第四步 · 描稿
+Dialogue: 0,00:00:30.300,00:00:35.500,Default,,0,0,0,,第五步 · 刺绣
+Dialogue: 0,00:00:36.300,00:00:41.500,Default,,0,0,0,,第六步 · 装裱
+Dialogue: 0,00:00:42.300,00:00:46.800,Default,,0,0,0,,千年苏绣 · 绣的是匠心\N

@@ -1,0 +1,8 @@
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_01.mp3'
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_02.mp3'
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_03.mp3'
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_04.mp3'
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_05.mp3'
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_06.mp3'
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_07.mp3'
+file '/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_drama/audio/voice_08.mp3'

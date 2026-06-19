@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 768
+PlayResY: 1376
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,32,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,40,40,180,134
+Style: Pinyin,STKaiti,22,&H00FFD700,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,1,2,40,40,120,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,00:00:00.500,00:00:04.500,Default,,0,0,0,,龙生九子 · 各怀绝技
+Dialogue: 0,00:00:05.300,00:00:08.800,Default,,0,0,0,,长子 · 囚牛
+Dialogue: 0,00:00:05.300,00:00:08.800,Pinyin,,0,0,0,,qiuniu
+Dialogue: 0,00:00:10.300,00:00:14.200,Default,,0,0,0,,次子 · 睚眦
+Dialogue: 0,00:00:10.300,00:00:14.200,Pinyin,,0,0,0,,yazi
+Dialogue: 0,00:00:15.300,00:00:19.500,Default,,0,0,0,,三子 · 嘲风
+Dialogue: 0,00:00:15.300,00:00:19.500,Pinyin,,0,0,0,,chaofeng
+Dialogue: 0,00:00:20.300,00:00:23.800,Default,,0,0,0,,四子 · 蒲牢
+Dialogue: 0,00:00:20.300,00:00:23.800,Pinyin,,0,0,0,,pulao
+Dialogue: 0,00:00:25.300,00:00:28.500,Default,,0,0,0,,五子 · 狻猊
+Dialogue: 0,00:00:25.300,00:00:28.500,Pinyin,,0,0,0,,suanni
+Dialogue: 0,00:00:30.300,00:00:33.800,Default,,0,0,0,,六子 · 霸下
+Dialogue: 0,00:00:30.300,00:00:33.800,Pinyin,,0,0,0,,baxia
+Dialogue: 0,00:00:35.300,00:00:38.800,Default,,0,0,0,,七子 · 狴犴
+Dialogue: 0,00:00:35.300,00:00:38.800,Pinyin,,0,0,0,,bian
+Dialogue: 0,00:00:40.300,00:00:43.000,Default,,0,0,0,,八子 · 负屃
+Dialogue: 0,00:00:40.300,00:00:43.000,Pinyin,,0,0,0,,fuxi
+Dialogue: 0,00:00:45.300,00:00:48.000,Default,,0,0,0,,九子 · 螭吻
+Dialogue: 0,00:00:45.300,00:00:48.000,Pinyin,,0,0,0,,chiwen
+Dialogue: 0,00:00:50.300,00:00:54.500,Default,,0,0,0,,九子归位 · 守护中华
+Dialogue: 0,00:00:50.300,00:00:54.500,Pinyin,,0,0,0,,

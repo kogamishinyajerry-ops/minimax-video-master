@@ -1,0 +1,27 @@
+{"requests":[
+ {
+ "prompt": "A finished cloisonne enamel round plate, golden copper wire lines forming entwined lotus patterns, vibrant gemstone-colored enamel turquoise, sapphire blue, cinnabar red and jade green inlaid between the wires, photorealistic museum-quality presentation, soft side lighting creating reflections on the polished copper surface, the round plate centered on a clean wooden stand, dramatic chiaroscuro, 8K detail",
+ "aspect_ratio": "2:3",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "A weathered Chinese artisan's hand holding a fine calligraphy brush, realistic documentary photography close-up, visible knuckle bone structure and age spots, light gray traditional Chinese sleeve cuff visible, soft warm side lighting from the left, shallow depth of field with blurred workshop background, 8K detail",
+ "aspect_ratio": "2:3",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "A weathered Chinese artisan's hand gripping a traditional blacksmith hammer above a red copper round disc on an iron anvil, realistic documentary photography, dramatic warm side lighting from the right casting long shadows, the hand and hammer as the visual anchor, blurred workshop background with copper blanks hanging, 8K detail",
+ "aspect_ratio": "2:3",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "A weathered Chinese artisan's hand using metal tweezers to bend a thin copper wire into a curved lotus pattern over a copper disc blank, realistic documentary photography, warm focused top-side lighting, shallow depth of field, blurred colorful enamel dishes in background, 8K detail",
+ "aspect_ratio": "2:3",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "A weathered Chinese artisan's hand holding a small brass spoon dropping vivid blue enamel powder into a copper wire compartment on a half-finished cloisonne round plate, the round plate as the central element at 70 percent of frame, realistic documentary photography, warm focused top-side lighting, shallow depth of field, blurred background of small colorful enamel dishes, 8K detail",
+ "aspect_ratio": "2:3",
+ "resolution": "2K"
+ }
+]}

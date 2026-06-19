@@ -1,0 +1,32 @@
+{"requests":[
+ {
+ "prompt": "Close-up of a traditional Chinese brick kiln mouth in Chinese ink wash animation style, glowing orange-red embers visible at the kiln mouth, dark workshop surroundings, several copper blanks with faint heat shimmer nearby, dramatic chiaroscuro lighting, muted ink palette with strong orange-red glow accent, hand-painted brushwork, gongbi detail on the kiln bricks, large white space,8K,16:9 cinematic composition",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/scenes/scene_06_kiln.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Several finished and half-finished copper blanks resting on a wooden shelf near a traditional Chinese brick kiln in Chinese ink wash animation style, faint orange-red glow from the kiln in the background, ink wash atmosphere with soft mist, muted ink palette with subtle copper-red and orange glow accents, hand-painted brushwork, gongbi detail on the copper blanks, soft diffused lighting,8K,16:9 cinematic composition",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/scenes/scene_06_kiln.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Close-up of an artisan's hand polishing a cloisonne piece with a sandstone block, in Chinese ink wash animation style, polished copper surface reflecting warm light, polishing cloth nearby, muted ink gray palette with subtle gold and enamel color accents, hand-painted brushwork, gongbi detail on hand bones and cloisonne surface, soft diffused lighting,8K,16:9 cinematic composition",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/elements/hand_01.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/scenes/scene_07_polish.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Close-up of a cloisonne piece being gilded, golden liquid being applied to copper wires, in Chinese ink wash animation style, gilding vessel with golden luster, muted ink gray palette with vivid gold accents glowing, hand-painted brushwork, gongbi detail on the wire and golden surface, soft diffused lighting, large white space,8K,16:9 cinematic composition",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/scenes/scene_07_polish.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "A finished cloisonne enamel tripod ding censer (Jingtailan) centered in a vast white space, in Chinese ink wash animation style, the vessel slowly rotates, golden copper wires gleaming with metallic luster, gemstone-colored enamel (turquoise, sapphire blue, cinnabar red) between wires, soft ink wash gradients and faint mountain silhouettes in the background, hand-painted brushwork, gongbi fine detail, soft diffused lighting,8K,16:9 cinematic composition",
+ "input_files": ["/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/elements/vessel_01.png", "/Users/Zhuanz/Documents/Minimax Code Projects/Minimax Video Master/cloisonne_ink/output/scenes/scene_01_void.png"],
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ }
+]}

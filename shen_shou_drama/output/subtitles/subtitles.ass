@@ -1,0 +1,23 @@
+[Script Info]
+Title: ShenShou Ink Style
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,STKaiti,68,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,3,2,80,80,80,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:05.50,Default,,0,0,0,,天地玄黄\N宇宙洪荒
+Dialogue: 0,0:00:06.40,0:00:11.00,Default,,0,0,0,,青龙镇东\N应春属木
+Dialogue: 0,0:00:12.30,0:00:17.00,Default,,0,0,0,,白虎在西\N应秋属金
+Dialogue: 0,0:00:18.19,0:00:23.00,Default,,0,0,0,,朱雀翔南\N应夏属火
+Dialogue: 0,0:00:24.10,0:00:29.00,Default,,0,0,0,,玄武镇北\N应冬属水
+Dialogue: 0,0:00:30.00,0:00:35.00,Default,,0,0,0,,麒麟居中\N德瑞呈祥
+Dialogue: 0,0:00:36.00,0:00:40.50,Default,,0,0,0,,金木水火土\N五行相生
+Dialogue: 0,0:00:42.00,0:00:46.50,Default,,0,0,0,,万古流芳
+Dialogue: 0,0:00:49.00,0:00:58.50,Default,,0,0,0,,中国神兽\N镇守四方

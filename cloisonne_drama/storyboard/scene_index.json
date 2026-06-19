@@ -1,0 +1,96 @@
+{
+  "project": "cloisonne_drama",
+  "total_scenes": 8,
+  "estimated_total_duration": 50,
+  "regeneration_note": "v2 — rewrote all 8 motion_prompts to be hyper-specific (subject + action + camera) with zero abstract/mood words. v1 used 'subtle', 'warm light shifts', 'softly' which caused content drift away from first_frame.",
+  "scenes": [
+    {
+      "id": "Scene_01",
+      "name": "出镜开场",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 8,
+      "first_frame_prompt": "Same character as reference, a 50-year-old Chinese male artisan in dark gray linen mandarin-collar shirt, standing in cloisonne workshop, copper blanks hanging on background wall, warm side lighting, calm focused expression, medium shot, realistic documentary, shallow depth of field, 16:9",
+      "motion_prompt": "The artisan in gray shirt turns his head from the workbench to face the camera, his right hand rests on a copper blank. Camera stays still, medium shot, no other movement.",
+      "narration": "他，便是这门古老技艺的传承人，数十年如一日，守护着掐丝珐琅的火与色。"
+    },
+    {
+      "id": "Scene_02",
+      "name": "设计画稿",
+      "scene_image": "cloisonne_drama/scenes/scene_02_desk.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 6,
+      "first_frame_prompt": "Top-down view of a traditional Chinese wooden desk corner, half-finished ink painting on rice paper, brush holder with calligraphy brushes, ink stone, paperweight, soft diffused daylight, minimalist composition, shallow depth of field, realistic photography, warm muted tones, 16:9",
+      "motion_prompt": "A right hand holding a calligraphy brush paints a single curved line on white rice paper with black ink. The brush tip touches, drags, and lifts. Top-down static shot, no camera movement.",
+      "narration": "一张宣纸，几笔墨痕，是作品的灵魂起点。"
+    },
+    {
+      "id": "Scene_03",
+      "name": "制胎",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "first_frame_prompt": "Same character as reference, artisan in side profile holding a hammer, hammering a copper blank on an anvil, cloisonne workshop background with hanging copper blanks, warm side lighting, medium shot, realistic documentary, 16:9",
+      "motion_prompt": "The artisan lifts a small metal hammer with his right hand and strikes down on a copper blank resting on an anvil. The hammer rises and falls in a steady rhythm. Side profile static shot, no camera movement.",
+      "narration": "匠人将紫铜片锤打成器形，作品的骨架便由此铸就。"
+    },
+    {
+      "id": "Scene_04",
+      "name": "掐丝",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "first_frame_prompt": "Same character as reference, close-up of artisan weathered hands using tweezers to bend a thin copper wire over a copper blank, shallow depth of field, blurred workshop background, warm side lighting, macro photography, realistic documentary, 16:9",
+      "motion_prompt": "Two hands hold metal tweezers gripping a thin copper wire against a copper plate. The fingers press the wire down flat against the surface and slide it along a curved line. Macro static shot, no camera movement.",
+      "narration": "细如发丝的扁铜丝，在指尖弯折成画的经脉。"
+    },
+    {
+      "id": "Scene_05",
+      "name": "点蓝",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "first_frame_prompt": "Same character as reference, top-down close-up of artisan hands filling gemstone-colored enamel powders into copper wire compartments on a cloisonne piece, several small enamel dishes arranged nearby, shallow depth of field, warm lighting, macro photography, realistic documentary, 16:9",
+      "motion_prompt": "A right hand holds a tiny metal spoon, dips it into a small dish of blue enamel powder, and taps the spoon over a copper wire cell on a circular plate. Blue powder falls into the cell, then the spoon moves to the next cell. Top-down static shot, no camera movement.",
+      "narration": "矿物釉料被一一填入丝间，恰如点染丹青。"
+    },
+    {
+      "id": "Scene_06",
+      "name": "烧制",
+      "scene_image": "cloisonne_drama/scenes/scene_03_kiln.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 6,
+      "first_frame_prompt": "Close-up of a traditional brick kiln mouth, glowing orange-red embers visible inside, dark surrounding workshop, a few copper blanks nearby, strong chiaroscuro lighting, high contrast, realistic documentary, dramatic cinematic lighting, 16:9",
+      "motion_prompt": "Orange flames flicker inside a brick kiln mouth, embers pulse and shift inside the dark chamber. A copper plate sits on a metal tray to the right of the kiln opening. Static close-up shot, no camera movement.",
+      "narration": "入窑七百度的锤炼，釉与丝相融相生。"
+    },
+    {
+      "id": "Scene_07",
+      "name": "磨光",
+      "scene_image": "cloisonne_drama/scenes/scene_01_workshop.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 6,
+      "first_frame_prompt": "Same character as reference, close-up of artisan hands polishing a cloisonne piece with a sandstone, polished copper surface reflecting warm light, shallow depth of field, blurred workshop background, macro photography, realistic documentary, 16:9",
+      "motion_prompt": "A right hand grips a gray sandstone block and rubs it in small circles across a polished copper cloisonne surface. The hand moves back and forth. Close-up static shot, no camera movement.",
+      "narration": "砂石一遍遍地打磨，器面方能光可鉴人。"
+    },
+    {
+      "id": "Scene_08",
+      "name": "成品展示",
+      "scene_image": "cloisonne_drama/scenes/scene_04_display.png",
+      "characters": ["artisan"],
+      "character_images": ["cloisonne_drama/characters/character_01_artisan.png"],
+      "duration": 8,
+      "first_frame_prompt": "A finished cloisonne enamel masterpiece on a wooden display stand, golden copper wire lines gleaming, vibrant gemstone-colored enamel, artisan hands gently supporting it from below, blurred workshop background, warm side lighting, museum-quality presentation, realistic photography, shallow depth of field, 16:9",
+      "motion_prompt": "Camera slowly pushes in 15 percent on a finished cloisonne enamel plate standing on a wooden display stand. A pair of hands stays still at the base supporting the plate. Slow push-in only, no other movement.",
+      "narration": "镀金之后，丝如金线，釉如宝石。掐丝珐琅，至此方成大器。"
+    }
+  ]
+}

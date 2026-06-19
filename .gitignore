@@ -1,0 +1,113 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =============================================================
+# Media files (binary, regenerable by the AI pipeline)
+# These are *artifacts*, not the workflow itself.
+# =============================================================
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.aac
+*.wav
+*.flac
+*.ogg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tiff
+
+# Root-level media downloaded from matrix MCP
+/matrix-media-*.mp4
+/matrix-media-*.mp3
+/matrix-media-*.png
+
+# =============================================================
+# Padded / intermediate output directories
+# =============================================================
+**/clips_padded/
+**/audio_padded/
+**/output/temp/
+**/output/frames/
+**/output/clips/
+**/output/audio/
+**/output/videos/
+**/output/characters/
+**/output/frames_check/
+**/_tts_full.*
+**/_slides_raw.*
+**/_slide_filelist.txt
+
+# =============================================================
+# Final video outputs (rendered deliverables)
+# =============================================================
+**/output/*.mp4
+**/*_final.mp4
+**/final_drama*.mp4
+**/cloisonne_*.mp4
+**/sui_yang_*.mp4
+**/shenshou_*.mp4
+**/video_with_audio.mp4
+**/raw_video.mp4
+
+# =============================================================
+# Subproject raw asset directories (AI-generated inputs)
+# Kept: planning/*.md, analysis/*.md, storyboard/*.md
+# Excluded: the actual media files
+# =============================================================
+**/bgm/*.mp3
+**/bgm/*.wav
+**/audio/voice_*.mp3
+**/audio/tts_*.mp3
+**/audio/voice_all.mp3
+**/audio/mixed.m4a
+**/audio/padded_voice_*.mp3
+**/clips/clip_*.mp4
+**/clips/clip_*.png
+**/images/*.png
+**/images/*.jpg
+**/characters/*.png
+**/scenes/*.png
+**/scenes/*.jpg
+**/frames/*.png
+**/raw/clean_*.png
+**/raw/*.mp4
+**/raw/*.mp3
+**/fallback/*.mp4
+**/fallback/*.mp3
+**/fallback/*.png
+
+# Preview / debug frames
+**/preview_*.png
+**/check_t*.png
+**/v2_t*.png
+
+# =============================================================
+# Pipeline scratch
+# =============================================================
+*.bak
+*.tmp
+*.log
+*.pid
+
+# Raw MCP API response logs (the cleaned *.json versions are kept as docs)
+*_raw.json

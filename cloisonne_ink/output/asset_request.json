@@ -1,0 +1,47 @@
+{"requests":[
+ {
+ "prompt": "A traditional Chinese artisan's weathered hand holding a fine calligraphy brush in Chinese ink wash animation style, visible knuckle bone structure rendered in gongbi fine brushwork, light gray traditional Chinese sleeve cuff slightly rolled up, soft ink outlines, hand-painted brush texture, muted ink palette with subtle ochre skin tone, slight smudge of ink on fingertip, large white space background, minimal composition, soft diffused lighting,8K detail",
+ "aspect_ratio": "2:3",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "A traditional Chinese cloisonne enamel tripod ding censer (Jingtailan) in Chinese ink wash animation style, three legs and two handles, body decorated with entwined lotus patterns, copper wire outlines filled with gemstone blue, malachite green and cinnabar red enamel, golden wire gleaming with subtle metallic sheen, gongbi fine brushwork detail on vessel surface, muted ink palette with vivid color accents, hand-painted soft edges, large white space background, museum-quality presentation,8K detail",
+ "aspect_ratio": "2:3",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Pure white background with subtle ink wash gradients in Chinese ink wash animation style, soft ink blots spreading like ripples on water, faint distant mountain silhouettes in pale ink, vast empty space and timeless atmosphere, hand-painted brushwork visible, no hard outlines, minimal composition, soft diffused lighting, traditional Chinese shanshui painting aesthetic,8K",
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Interior corner of a Ming-Qing dynasty Chinese imperial palace in Chinese ink wash animation style, vermilion red pillars slightly visible in soft focus, an ornate carved imperial desk with a cloisonne enamel vessel displayed, soft diffused daylight, muted ink palette with vermilion red and gold accents, hand-painted brushwork, atmospheric perspective, large white space, traditional Chinese gongbi detail,8K",
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Top-down view of a traditional Chinese wooden desk corner in Chinese ink wash animation style, half-finished ink painting on rice paper with delicate brushstrokes showing cloisonne vessel patterns, brush holder with calligraphy brushes, ink stone, paperweight, soft diffused daylight, muted ink palette with subtle ochre and pale ink tones, hand-painted texture, large white space around composition, minimal Chinese shanshui painting aesthetic,8K",
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Close-up of a traditional Chinese copper-smithing workshop in Chinese ink wash animation style, iron anvil, blacksmith hammer, sheet of red copper on the anvil, copper scraps in the corner, muted ink gray palette with subtle copper-red accent, hand-painted brushwork, soft diffused lighting, large white space background, minimal composition, traditional Chinese gongbi detail on tools,8K",
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Top-down view of a traditional Chinese cloisonne enamel workshop desk in Chinese ink wash animation style, tweezers, thin copper wire coils, half-finished copper blank with wire patterns, several small enamel dishes in cinnabar red, sapphire blue, malachite green and ochre yellow, muted ink gray background with vivid mineral color accents, hand-painted brushwork, soft diffused lighting, large white space around composition, traditional Chinese gongbi detail,8K",
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Close-up of a traditional Chinese brick kiln in Chinese ink wash animation style, glowing orange-red embers visible at the kiln mouth, dark workshop surroundings, several copper blanks with faint heat shimmer nearby, dramatic chiaroscuro lighting, muted ink palette with strong orange-red glow accent, hand-painted brushwork, large white space, traditional Chinese gongbi detail on the kiln bricks,8K",
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ },
+ {
+ "prompt": "Close-up of a traditional Chinese polishing and gilding workshop in Chinese ink wash animation style, sandstone polishing block, polishing cloth, gilding vessel with golden luster on copper wires, muted ink gray palette with vivid gold accents, hand-painted brushwork, soft diffused lighting, large white space background, traditional Chinese gongbi detail,8K",
+ "aspect_ratio": "16:9",
+ "resolution": "2K"
+ }
+]}

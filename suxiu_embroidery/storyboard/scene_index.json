@@ -1,0 +1,111 @@
+{
+  "total_scenes": 8,
+  "total_duration": 60,
+  "style": "Chinese gongbi fine brushwork illustration style with modern anime twist, traditional Chinese painting aesthetic, warm and serene atmosphere, highly detailed linework",
+  "scenes": [
+    {
+      "id": "Scene_01",
+      "scene_name": "成品钩子",
+      "scene_image": "suxiu_embroidery/scenes/scene_01_workshop.png",
+      "characters": ["苏绣作品-牡丹"],
+      "character_images": ["suxiu_embroidery/characters/character_02_peony_embroidery.png"],
+      "duration": 6,
+      "shot": "extreme close-up",
+      "first_frame_prompt": "Same Su embroidery peony artwork as reference, extreme close-up of intricate peony embroidery details, layered silk petals in crimson and pink, golden stamens, visible silk thread texture catching light, Chinese gongbi fine brushwork illustration style, soft warm candlelight, museum-quality detail, vertical 9:16",
+      "motion_prompt": "Camera slowly pushes in on the embroidery details, light plays across silk threads, a finger gently traces the texture of one petal",
+      "narration": "一幅苏绣作品的诞生，要经过六道千年古法工序。",
+      "mood": "refined, museum-quality, hook"
+    },
+    {
+      "id": "Scene_02",
+      "scene_name": "选稿",
+      "scene_image": "suxiu_embroidery/scenes/scene_01_workshop.png",
+      "characters": ["苏绣女匠人"],
+      "character_images": ["suxiu_embroidery/characters/character_01_embroidery_artisan.png"],
+      "duration": 8,
+      "shot": "medium shot",
+      "first_frame_prompt": "Same embroidery artisan as reference, sitting at wooden worktable in traditional Jiangnan workshop, holding a paper design draft, studying it with calm focused expression, soft golden sunlight from window illuminating her face, Chinese gongbi fine brushwork illustration style, warm serene atmosphere, vertical 9:16",
+      "motion_prompt": "The artisan gently turns the paper design, brushes her hair back thoughtfully, then sets the design down on the table with reverence, soft sunlight moves slowly across her face",
+      "narration": "第一步·选稿——匠人反复推敲图样，让每一条线都有故事。",
+      "mood": "contemplative, deliberate, artisan"
+    },
+    {
+      "id": "Scene_03",
+      "scene_name": "配线",
+      "scene_image": "suxiu_embroidery/scenes/scene_03_thread_tools.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 8,
+      "shot": "macro close-up",
+      "first_frame_prompt": "Extreme close-up of artisan's hands carefully splitting a single silk thread into multiple fine strands, traditional Chinese embroidery tools and colorful silk threads visible, soft warm natural light, Chinese gongbi fine brushwork illustration style, extreme detail, vertical 9:16",
+      "motion_prompt": "The artisan's fingers slowly and delicately split one silk thread into many fine strands, the colorful threads spread like a small fan, camera slowly pushes in on the fine threads",
+      "narration": "第二步·配线——一根丝线劈成十六股，细如发丝，色彩万千。",
+      "mood": "delicate, meticulous, revealing craft"
+    },
+    {
+      "id": "Scene_04",
+      "scene_name": "上绷",
+      "scene_image": "suxiu_embroidery/scenes/scene_02_hoop_closeup.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 8,
+      "shot": "close-up",
+      "first_frame_prompt": "Traditional round wooden embroidery hoop being tightened, white silk fabric stretched taut like a drum surface, hand adjusting the wooden frame, soft warm natural light, Chinese gongbi fine brushwork illustration style, simple elegant composition, vertical 9:16",
+      "motion_prompt": "A hand gently tightens the wooden embroidery hoop, the silk fabric stretches and tightens, the surface becomes mirror-flat, camera holds steady with slight push in",
+      "narration": "第三步·上绷——将绣布紧绷于木绷之上，平整如镜。",
+      "mood": "preparatory, precise, calm"
+    },
+    {
+      "id": "Scene_05",
+      "scene_name": "描稿",
+      "scene_image": "suxiu_embroidery/scenes/scene_01_workshop.png",
+      "characters": ["苏绣女匠人"],
+      "character_images": ["suxiu_embroidery/characters/character_01_embroidery_artisan.png"],
+      "duration": 8,
+      "shot": "medium close-up",
+      "first_frame_prompt": "Same embroidery artisan as reference, holding a fine ink brush, carefully tracing a peony pattern from a paper draft onto taut white silk fabric stretched on an embroidery hoop, soft golden window light, Chinese gongbi fine brushwork illustration style, traditional atelier atmosphere, vertical 9:16",
+      "motion_prompt": "The artisan's hand holding a fine brush slowly traces the outline of a peony petal onto the white silk, the ink line appears delicate and precise, her expression shows deep concentration, soft breathing visible",
+      "narration": "第四步·描稿——把图样一丝不苟地描到绣布。",
+      "mood": "focused, meticulous, transitional"
+    },
+    {
+      "id": "Scene_06",
+      "scene_name": "刺绣",
+      "scene_image": "suxiu_embroidery/scenes/scene_01_workshop.png",
+      "characters": ["苏绣女匠人"],
+      "character_images": ["suxiu_embroidery/characters/character_01_embroidery_artisan.png"],
+      "duration": 8,
+      "shot": "close-up on hands",
+      "first_frame_prompt": "Same embroidery artisan as reference, close-up of her hands stitching a peony petal on silk fabric with needle and colorful silk thread, traditional embroidery frame, soft warm natural light highlighting the silk thread texture, Chinese gongbi fine brushwork illustration style, vertical 9:16",
+      "motion_prompt": "The artisan's fingers move with practiced rhythm, needle piercing silk in and out, pulling thread tight, gradually building up a peony petal layer by layer, camera slowly tracks her hand movements",
+      "narration": "第五步·刺绣——一针一线，百年功力尽在指尖。",
+      "mood": "masterful, rhythmic, soul of craft"
+    },
+    {
+      "id": "Scene_07",
+      "scene_name": "成品展示",
+      "scene_image": "suxiu_embroidery/scenes/scene_04_exhibition.png",
+      "characters": [],
+      "character_images": [],
+      "duration": 8,
+      "shot": "wide shot",
+      "first_frame_prompt": "A finished exquisite Su embroidery peony artwork mounted on traditional silk scroll, displayed in a refined exhibition setting with soft warm spotlight, museum-quality presentation, the artwork showing full bloom peony in crimson and pink, Chinese gongbi fine brushwork illustration style, vertical 9:16",
+      "motion_prompt": "Camera slowly dollies back to reveal the full embroidery artwork, soft warm light plays across silk threads, the peony seems to bloom in time, slight zoom out to show exhibition context",
+      "narration": "第六步·装裱——传统装裱让作品得以永续流传。",
+      "mood": "triumphant, refined, conclusion of craft"
+    },
+    {
+      "id": "Scene_08",
+      "scene_name": "文化升华",
+      "scene_image": "suxiu_embroidery/scenes/scene_01_workshop.png",
+      "characters": ["苏绣女匠人"],
+      "character_images": ["suxiu_embroidery/characters/character_01_embroidery_artisan.png"],
+      "duration": 6,
+      "shot": "medium close-up",
+      "first_frame_prompt": "Same embroidery artisan as reference, medium close-up of her serene smiling face looking at the finished embroidery artwork in the warm workshop light, hair slightly framing her face, soft golden backlight, Chinese gongbi fine brushwork illustration style, emotional and poetic, vertical 9:16",
+      "motion_prompt": "The artisan gently gazes at her finished work with a subtle proud smile, eyes reflecting warm light, a slight nod of satisfaction, soft golden backlight halo around her",
+      "narration": "千年苏绣，一针一线，绣的是手艺，绣的是匠心。",
+      "mood": "poetic, conclusive, soulful"
+    }
+  ]
+}
